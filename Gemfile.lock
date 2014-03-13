@@ -56,6 +56,8 @@ GEM
       rack-test
       sinatra (~> 1.4.0)
       tilt (~> 1.3)
+    sinatra_cyclist (0.0.3)
+      sinatra
     sprockets (2.11.0)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -88,4 +90,5 @@ PLATFORMS
 
 DEPENDENCIES
   dashing
+  sinatra_cyclist
   twitter (>= 5.0.0)
