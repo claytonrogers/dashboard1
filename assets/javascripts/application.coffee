@@ -4,9 +4,6 @@
 
 #= require_directory .
 #= require_tree ../../widgets
-#= require moment.min
-#= require moment-timezone.min
-#= require moment-timezone-data
 
 console.log("Yeah! The dashboard has started!")
 
